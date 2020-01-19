@@ -1,0 +1,8 @@
+.stuSearchBar .item{
+    margin-right: 20px;;
+}
+.sexItem span{
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+}

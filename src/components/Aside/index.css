@@ -1,0 +1,19 @@
+.menu{
+    margin: 30px 0;
+    color: #fff;
+}
+.menu li{
+    height: 50px;
+    line-height: 50px;
+    border-top: 1px solid #008c8c;
+    text-align: center;
+}
+.menu li:hover,
+.menu li .active{
+    color: #008c8c;
+    background: #fff;
+}
+.menu li a{
+    display: block;
+    height: 100%;
+}

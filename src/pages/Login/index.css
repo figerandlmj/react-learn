@@ -1,0 +1,33 @@
+.loginContainer{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('../../static/images/bg.gif') no-repeat center;
+    background-size: cover;
+    /* background: #333; */
+}
+.loginContainer .wrapper{
+    padding: 20px;
+    color: #fff;
+    /* background: #008c8c; */
+}
+.loginContainer input{
+    display: block;
+    width: 300px;
+    margin: 20px 0;
+}
+.loginContainer button{
+    display: block;
+    width: 300px;
+    margin: 0 auto 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #008c8c;
+    background: #fff;
+}

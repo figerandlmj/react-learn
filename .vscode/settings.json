@@ -1,0 +1,19 @@
+{
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.style": {
+        "position": "absolute",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        "opacity": 0.1,
+        "background-repeat": "no-repeat",
+        "background-size": "cover",
+        "background-position": "100% 100%"
+    },
+    "background.customImages": [
+        "E:/my/timg.jpg"
+    ],
+    "editor.fontSize": 16,
+    "editor.suggest.snippetsPreventQuickSuggestions": false
+}
